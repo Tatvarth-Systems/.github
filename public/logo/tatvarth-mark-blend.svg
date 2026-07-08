@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120"><defs><linearGradient id="g" x1="60" y1="26" x2="60" y2="98" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#14141A"></stop><stop offset=".45" stop-color="#3A2E66"></stop><stop offset="1" stop-color="#6B46E5"></stop></linearGradient></defs><g fill="none" stroke="url(#g)" stroke-width="16" stroke-linecap="butt"><path d="M28 32H92"></path><path d="M60 32V78"></path><path d="M60 78q0 18 18 18"></path></g></svg>
