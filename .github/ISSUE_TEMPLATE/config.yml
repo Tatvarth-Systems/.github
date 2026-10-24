@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/Tatvarth-Systems/.github/blob/main/SECURITY.md
+    about: Do not file security issues publicly. Follow the private reporting steps.
+  - name: General inquiries
+    url: https://tatvarthsystems.com
+    about: For project or business inquiries, contact us through the website.
